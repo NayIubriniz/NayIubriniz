@@ -6,6 +6,7 @@
 
 ![NayIubrinz GitHub stats](https://github-readme-stats.vercel.app/api?username=NayIubriniz&show_icons=true&theme=dark)
 
+
 ## Tecnologias que mais uso
 
 <div style="display: inline_block"><br/>
