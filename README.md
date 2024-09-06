@@ -1,9 +1,5 @@
 ### Olá! Eu sou a Nayra Rodrigues 😀
 
-## Formada em análise e Desenvolvimento de sistemas 👩🏿‍💻✅
-## Atualmente cursando Desenvolvimento web 👩🏿‍💻⌛
-No momento a procura de um Estágio 🤗
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayra-rodrigues-59b26b20b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nayra.r_?igsh=bzliNTFkZm1xdGYz)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nayra_iubriniz@outlook.com)
@@ -39,3 +35,8 @@ Uma entusiasta por tecnologia, conhecimento e apaixonada por tudo que o mundo te
 ## Meus Hobbies
 
 No meu tempo livre, amo jogar videogame,Programar, tocar algum instrumento musical, cantar e amo passar um tempo com as pessoas que eu amo.🤗
+
+## Formação 👩🏿‍🎓
+Análise e Desenvolvimento de sitemas👩🏿‍💻✅ <br>
+Atualmente cursando <strong>Desenvolvimento web</strong> 👩🏿‍💻⌛ <br>
+A procura de Estágio 🔍
