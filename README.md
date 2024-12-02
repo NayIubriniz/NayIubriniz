@@ -36,7 +36,7 @@ Sou estudante de desenvolvimento web, apaixonada por tecnologia e suas criaçõe
 
 No meu tempo livre, amo jogar videogame,Programar, tocar algum instrumento musical, cantar e amo passar um tempo com as pessoas que eu amo.🤗
 
-## Formação 👩🏿‍🎓
+## Formação 🎓
 Análise e Desenvolvimento de sitemas🎓✅ <br>
 Atualmente cursando <strong>Desenvolvimento web</strong> 👩🏿‍💻⌛ <br>
 
