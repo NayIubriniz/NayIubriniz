@@ -7,7 +7,7 @@ Sou estudante de desenvolvimento web, apaixonada por tecnologia e suas criaçõe
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nayra.r_?igsh=bzliNTFkZm1xdGYz)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:nayra_iubriniz@outlook.com)
 
-## Tecnologias que mais uso 🤓
+## Tecnologias mais usadas 🤓
 
 <div style="display: inline_block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
