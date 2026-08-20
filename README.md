@@ -38,5 +38,3 @@ No meu tempo livre, amo jogar videogame,Programar, tocar algum instrumento music
 
 ## Formação 🎓
 Análise e Desenvolvimento de sitemas🎓✅ <br> <br>
-
-![NayIubrinz GitHub stats](https://github-readme-stats.vercel.app/api?username=NayIubriniz&show_icons=true&theme=dark)
