@@ -1,5 +1,5 @@
 ### Oie! Eu sou a Nayra Rodrigues 😀
-Sou estudante de desenvolvimento web, apaixonada por tecnologia e suas criações. Constantemente aprendendo dentro e fora da faculdade, buscando evoluir minhas habilidades. Atualmente, estou focada em alcançar um dos meus grandes objetivos: conquistar meu primeiro estágio na área. 🫡
+Sou Formada na área de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e suas criações. Constantemente aprendendo dentro e fora da faculdade, buscando evoluir minhas habilidades. Atualmente, estou focada em alcançar um dos meus grandes objetivos: conquistar meu primeiro estágio na área. 🫡
 
 
 ## Você me encontra por aqui
@@ -38,6 +38,5 @@ No meu tempo livre, amo jogar videogame,Programar, tocar algum instrumento music
 
 ## Formação 🎓
 Análise e Desenvolvimento de sitemas🎓✅ <br>
-Atualmente cursando <strong>Desenvolvimento web</strong> 👩🏿‍💻⌛ <br>
 
 ![NayIubrinz GitHub stats](https://github-readme-stats.vercel.app/api?username=NayIubriniz&show_icons=true&theme=dark)
