@@ -37,6 +37,6 @@ Sou Formada na área de Análise e Desenvolvimento de Sistemas, apaixonada por t
 No meu tempo livre, amo jogar videogame,Programar, tocar algum instrumento musical, cantar e amo passar um tempo com as pessoas que eu amo.🤗
 
 ## Formação 🎓
-Análise e Desenvolvimento de sitemas🎓✅ <br>
+Análise e Desenvolvimento de sitemas🎓✅ <br> <br>
 
 ![NayIubrinz GitHub stats](https://github-readme-stats.vercel.app/api?username=NayIubriniz&show_icons=true&theme=dark)
